@@ -2,57 +2,57 @@
 let questions = [
     {
     numb: 1,
-    question: "what is meant about client-side?",
-    answer: "Front-end",
+    question: "when user write the domain sends the request to?",
+    answer: "Domain",
     options: [
-      "Back-end",
-      "Flutter",
-      "Front-end",
-      "Mobile"
+      "anyone",
+      "Client",
+      "developer",
+      "Domain"
     ]
   },
     {
     numb: 2,
-    question: "who can read files html & css & js?",
-    answer: "Browser",
-    options: [
-      "Browser",
-      "Xampp",
-      "GitHub",
-      "Wampp"
-    ]
-  },
-    {
-    numb: 3,
-    question: "choose the domain in the chooses?",
-    answer: "www.facebook.com",
-    options: [
-      "Hypertext Preprocessor",
-      "www.facebook.com",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
-    ]
-  },
-    {
-    numb: 4,
-    question: "what is meant about server-side?",
-    answer: "Logic Website",
-    options: [
-      "PHP",
-      "MYSQL",
-      "Logic Website",
-      "Laravel"
-    ]
-  },
-    {
-    numb: 5,
-    question: "What does DNS stand for?",
+    question: "Who is responsible to see IP-Address?",
     answer: "Domain Name Server",
     options: [
       "Domain Name Server",
       "Domain Name web",
       "Domain Name site",
       "Domain Name Silent"
+    ]
+  },
+    {
+    numb: 3,
+    question: "when you write the domain Which page do you open first??",
+    answer: "index",
+    options: [
+      "home",
+      "profile",
+      "index",
+      "contact-us"
+    ]
+  },
+    {
+    numb: 4,
+    question: "google page",
+    answer: "Dynamic",
+    options: [
+      "None",
+      "Dynamic & Static",
+      "Static",
+      "Dynamic"
+    ]
+  },
+    {
+    numb: 5,
+    question: "What does HTTP stand for?",
+    answer: "Hyper Text Transfer Protocol",
+    options: [
+      "Hyper Text Transfer Prototype",
+      "Hyper Text Transfer Protocol",
+      "Hyper Text Transfer application",
+      "Hyper Text Transfer network"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
