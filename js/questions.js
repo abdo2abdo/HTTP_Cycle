@@ -2,57 +2,57 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "what is meant about client-side?",
+    answer: "Front-end",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "Back-end",
+      "Flutter",
+      "Front-end",
+      "Mobile"
     ]
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "who can read files html & css & js?",
+    answer: "Browser",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "Browser",
+      "Xampp",
+      "GitHub",
+      "Wampp"
     ]
   },
     {
     numb: 3,
-    question: "What does PHP stand for?",
-    answer: "Hypertext Preprocessor",
+    question: "choose the domain in the chooses?",
+    answer: "www.facebook.com",
     options: [
       "Hypertext Preprocessor",
-      "Hypertext Programming",
+      "www.facebook.com",
       "Hypertext Preprogramming",
       "Hometext Preprocessor"
     ]
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: "what is meant about server-side?",
+    answer: "Logic Website",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "PHP",
+      "MYSQL",
+      "Logic Website",
+      "Laravel"
     ]
   },
     {
     numb: 5,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
+    question: "What does DNS stand for?",
+    answer: "Domain Name Server",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "Domain Name Server",
+      "Domain Name web",
+      "Domain Name site",
+      "Domain Name Silent"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
